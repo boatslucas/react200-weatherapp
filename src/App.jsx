@@ -32,7 +32,7 @@ function WeatherApp() {
         playsInline
         className="absolute top-0 left-0 w-full h-full object-cover -z-10"
       >
-        <source src="/Hailuo_Video_I want a hyper-realistic video_420067234004459521.mp4" type="video/mp4" />
+        <source src="/backgroundvideo.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
